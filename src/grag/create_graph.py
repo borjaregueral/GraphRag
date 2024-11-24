@@ -65,7 +65,12 @@ def initialize_llm(model_name: str = "gpt-4o", temperature: float = 0.0):
         logger.error(f"Failed to initialize language model: {e}")
         raise
 
-def initialize_vector_store(embeddings, uri: str, user: str, password: str, index_name: str = "vector_index"):
+def initialize_vector_store(embeddings, uri: str, user: str, password: str,
+                             index_name: str = "vector_index",
+                             node_label: str = "Podcast",
+                             text_node_property: str = "page_content",
+                             embedding_node_property: str = "embedding"
+                               ):
     """
     Initializes and returns the Neo4jVector store.
     """
@@ -76,7 +81,9 @@ def initialize_vector_store(embeddings, uri: str, user: str, password: str, inde
             username=user,
             password=password,
             index_name=index_name,
-            embedding_node_property="embedding"
+            embedding_node_property=embedding_node_property,
+            node_label=node_label, 
+            text_node_property=text_node_property
         )
         logger.info(f"Neo4jVector store initialized with index: {index_name}")
         return vector_store
