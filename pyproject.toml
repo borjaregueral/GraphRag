@@ -45,6 +45,8 @@ rapidfuzz = "^3.10.1"
 langchain-core = "^0.3.21"
 knowledge-graph = "^0.0.30"
 langchain-google-community = "^2.0.2"
+fuzzywuzzy = "^0.18.0"
+python-levenshtein = "^0.26.1"
 
 [tool.poetry.group.dev.dependencies]
 ipykernel = "^6.29.5"
