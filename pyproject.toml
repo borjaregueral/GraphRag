@@ -47,6 +47,8 @@ knowledge-graph = "^0.0.30"
 langchain-google-community = "^2.0.2"
 fuzzywuzzy = "^0.18.0"
 python-levenshtein = "^0.26.1"
+deepeval = "^2.0"
+nest-asyncio = "^1.6.0"
 
 [tool.poetry.group.dev.dependencies]
 ipykernel = "^6.29.5"
