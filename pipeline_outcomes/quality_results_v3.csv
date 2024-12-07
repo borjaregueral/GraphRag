@@ -1,0 +1,27 @@
+row_number,question,answer,coherence_score,faithfulness_score,answer_relevancy_score
+1,"When did Airbnb go public, what was the price per share","According to the context, Airbnb went public on December 9, 2020. They priced their IPO at $68 per share, raising $3.5 billion at a $47 billion market cap. When trading began, the stock opened at $146 per share and reached $159 per share during early trading, more than doubling from the IPO price and pushing the company's valuation over $100 billion.",0.9798186777739621,1.0,0.7142857142857143
+2,Why did Wimdu unlike Airbnb not take off?,"Based on the context, Wimdu failed to take off compared to Airbnb for several key reasons:
+
+1. Lack of Reviews and Trust: 
+- Wimdu used a ""listings farm"" approach, rapidly adding properties without organic growth of reviews
+- Reviews and trust were critical for this new type of accommodation service
+- Properties without reviews were essentially ""dead listings"" with no activity
+- Airbnb already had listings with reviews in Europe from organic global growth
+
+2. Network Effects:
+- Airbnb had established a global network effect early on
+- Travel is inherently global - people travel between Europe and North America
+- Having one unified platform was important since travelers want to use the same service globally
+- Airbnb's existing network of reviewed properties gave them a significant advantage
+
+3. Approach to Growth:
+- Wimdu used an aggressive but artificial growth strategy, setting up a ""sweatshop in Berlin"" with young graduates calling hosts to get listings
+- While Airbnb also opened offices and pursued listings growth in Europe, they had built their platform more organically over time
+- The organic growth led to more genuine engagement and activity on Airbnb's platform
+
+4. First Mover Advantage:
+- Airbnb was already operating globally when Wimdu tried to enter
+- This gave Airbnb advantages in brand recognition and established trust with users
+- The existing review system and user base made it harder for Wimdu to compete effectively
+
+The context suggests that while Wimdu tried to quickly replicate Airbnb's success through aggressive expansion, they couldn't overcome Airbnb's established network effects, trust system, and organic growth approach that had created a genuinely active marketplace.",0.9437823499114204,1.0,1.0
