@@ -7,7 +7,7 @@ row_number,question,answer,coherence_score,faithfulness_score,answer_relevancy_s
 - During initial trading, it reached $159 per share, representing over a 100% increase from the IPO price
 - This pop in the stock price pushed Airbnb's valuation to over $100 billion on its first day of trading
 
-The IPO came after they filed their S1 registration statement on November 16, 2020, during the COVID-19 pandemic, despite their gross bookings being down 39% at the time.",0.9053403331619675,1.0,0.7777777777777778
+The IPO came after they filed their S1 registration statement on November 16, 2020, during the COVID-19 pandemic, despite their gross bookings being down 39% at the time.",0.9053403331619675,1,0.7777777777777778
 2,Why did Wimdu unlike Airbnb not take off?,"Based on the provided context, Wimdu failed to take off compared to Airbnb for several key reasons:
 
 1. Lack of Reviews and Trust: 
@@ -30,7 +30,7 @@ The IPO came after they filed their S1 registration statement on November 16, 20
 - Airbnb raised significant capital ($112M Series B) specifically to fight off Wimdu and other clones
 - This allowed them to defend their position and continue building their network effect
 
-The key differentiator appears to be that Wimdu tried to artificially replicate Airbnb's supply side through aggressive listing acquisition, but failed to build the trust and review ecosystem that made Airbnb's platform valuable to users. Airbnb's organic growth and existing global network effect proved too strong for Wimdu to overcome.",0.902297737204272,1.0,1.0
+The key differentiator appears to be that Wimdu tried to artificially replicate Airbnb's supply side through aggressive listing acquisition, but failed to build the trust and review ecosystem that made Airbnb's platform valuable to users. Airbnb's organic growth and existing global network effect proved too strong for Wimdu to overcome.",0.902297737,1,1
 3,Why does market fragmentation work for airline industry but could't work for Airbnb,"Based on the context, market fragmentation works for airlines but not Airbnb for a few key reasons:
 
 1. Different Infrastructure Requirements:
@@ -53,16 +53,16 @@ The key differentiator appears to be that Wimdu tried to artificially replicate 
 - This creates a virtuous cycle that favors a single global platform rather than regional fragmentation
 - The context notes: ""the biggest way that they ended up getting hosts on the platform was people would use the platform as travelers...they come back to their own city and say, I'd like to make some extra money on my place""
 
-In summary, while airlines can successfully operate in regional markets due to infrastructure and operational requirements, Airbnb's business model inherently favors a single global platform due to network effects and user behavior patterns.",0.9037528813275573,1.0,1.0
-4,How many hot dogs does Costco currently sell per year?,"According to the context, Costco sells 130 million hot dogs per year. This was mentioned specifically in the transcript when discussing the famous $1.50 hot dog and soda combo deal that has remained the same price for 47 years. The hot dog and soda combo is potentially the only loss leader that Costco sells, though the company is somewhat cagey about the actual costs. They've gone through many iterations of in-housing operations to try to keep their costs down, including making the hot dogs themselves now.",0.8835483549474008,1.0,0.3333333333333333
+In summary, while airlines can successfully operate in regional markets due to infrastructure and operational requirements, Airbnb's business model inherently favors a single global platform due to network effects and user behavior patterns.",0.9037528813275573,1,1
+4,How many hot dogs does Costco currently sell per year?,"According to the context, Costco sells 130 million hot dogs per year. This was mentioned specifically in the transcript when discussing the famous $1.50 hot dog and soda combo deal that has remained the same price for 47 years. The hot dog and soda combo is potentially the only loss leader that Costco sells, though the company is somewhat cagey about the actual costs. They've gone through many iterations of in-housing operations to try to keep their costs down, including making the hot dogs themselves now.",0.8835483549474008,1,0.3333333333333333
 5,"What store was created as ""the price club of hardware stores""?","According to the context, Home Depot was created as ""the price club of hardware stores."" Specifically, Bernie Marcus, who had been kicked out as president of the Handy Dan hardware store chain, visited Sol Price in San Diego. Sol showed Bernie the Price Club warehouse and gave him the playbook, suggesting that Bernie take the Price Club model and apply it to hardware stores to compete with his former company. Bernie Marcus then went on to start Home Depot, essentially creating a Price Club-style warehouse retailer focused on hardware and home improvement products.
 
-The context indicates this was one of several examples of Sol Price freely sharing his retail model with others who would go on to create successful retail businesses, similar to how he shared insights with Sam Walton who later created Sam's Club.",0.9018138857971794,1.0,0.7272727272727273
+The context indicates this was one of several examples of Sol Price freely sharing his retail model with others who would go on to create successful retail businesses, similar to how he shared insights with Sam Walton who later created Sam's Club.",0.9018138857971794,1,0.7272727272727273
 6,How long did it take for Costco to generate 1 billion dollars in revenue?,"According to the context, Costco hit $1 billion in revenue in less than three years after getting started. Specifically, the text states: ""This new Costco under Jim hits a billion dollars in revenue in less than three years after getting started.""
 
 This was an incredibly fast growth trajectory, and they went on to hit $3 billion in less than six years, which was noted as being the first company ever to reach that milestone that quickly.
 
-The rapid growth was enabled by their successful expansion strategy, starting in Seattle and quickly moving to Portland, Utah, Northern California, and British Columbia. The business model was already proven through Price Club, and they had an experienced team of retail veterans from FedMart and Price Club who knew exactly how to execute the strategy.",0.900898523274364,1.0,0.45454545454545453
+The rapid growth was enabled by their successful expansion strategy, starting in Seattle and quickly moving to Portland, Utah, Northern California, and British Columbia. The business model was already proven through Price Club, and they had an experienced team of retail veterans from FedMart and Price Club who knew exactly how to execute the strategy.",0.900898523,1,0.45454545454545453
 7,What is the New Look?,"Based on the context, the New Look was Christian Dior's revolutionary first fashion collection launched in February 1947, which had several key characteristics and significance:
 
 Key Elements:
@@ -82,7 +82,7 @@ Commercial Impact:
   - 75% of Paris's fashion exports
   - 5% of France's entire export revenue
 
-The New Look established Dior as a major force in fashion and helped revitalize the French luxury fashion industry after WWII. It represented both a cultural and commercial turning point in post-war fashion and luxury goods.",0.9119202932521475,1.0,1.0
+The New Look established Dior as a major force in fashion and helped revitalize the French luxury fashion industry after WWII. It represented both a cultural and commercial turning point in post-war fashion and luxury goods.",0.9119202932521475,1,1
 8,How much money did the Arnaut family offer to buy out the Boussac group?,"According to the context, the Arnault family and Lazard put together a $60 million bid to take over the Boussac group from the French government, with the Arnault family contributing $15 million and Lazard arranging the other $45 million from investors and their own balance sheet. This was in the mid-1980s when Boussac was in bankruptcy and under government control.
 
 Specifically:
@@ -90,10 +90,10 @@ Specifically:
 - Arnault family contribution: $15 million 
 - Lazard arranged: $45 million
 
-This was considered a relatively small amount given that Boussac was doing over $1 billion in revenue at the time, though it was losing money. Within a couple years after the acquisition, Bernard Arnault had turned it around to generate over $100 million in profits annually.",0.8992865251560535,1.0,1.0
+This was considered a relatively small amount given that Boussac was doing over $1 billion in revenue at the time, though it was losing money. Within a couple years after the acquisition, Bernard Arnault had turned it around to generate over $100 million in profits annually.",0.8992865251560535,1,1
 9,What is American Crown Jewel?,"Based on the provided context, I cannot definitively determine what ""American Crown Jewel"" refers to, as this specific term is not directly discussed in the conversation. While there is discussion about sports franchises being like ""royalty"" in America (referenced in a quote about NFL and NBA franchises being ""the closest thing we have to royalty in America""), the specific term ""American Crown Jewel"" is not defined or explained in the given context.
 
-If you'd like to know about this specific term, we would need additional context that directly addresses it.",0.8098059462485528,1.0,0.6666666666666666
+If you'd like to know about this specific term, we would need additional context that directly addresses it.",0.8098059462485528,1,0.6666666666666666
 10,"According to Information Theory, what is the importance of knowing what message your sender is trying to convey?","Based on the context, according to Information Theory, knowing what message your sender is trying to convey is important because it affects how much noise can be tolerated in the communication medium. Specifically:
 
 1. If you have high certainty about the expected message (like in the example where there's a 99% chance the message is ""I just had breakfast""), then:
@@ -106,7 +106,7 @@ If you'd like to know about this specific term, we would need additional context
 
 This relationship between message predictability and required signal quality is a key concept in Information Theory, as it demonstrates how the entropy (randomness/uncertainty) of the message directly impacts the requirements for successful transmission through any given medium.
 
-The context shows this is part of Shannon's broader Information Theory framework, which established fundamental principles about how information can be transmitted through communication channels while accounting for noise and signal quality.",0.9014361835418729,1.0,1.0
+The context shows this is part of Shannon's broader Information Theory framework, which established fundamental principles about how information can be transmitted through communication channels while accounting for noise and signal quality.",0.9014361835418729,1,1
 11,Compare the impact on Qualcomm between the two Jacobs.,"Based on the provided context, here is a comparison of the impact of the two Jacobs (Irwin and Paul) on Qualcomm:
 
 Irwin Jacobs (Founder & First CEO):
@@ -129,8 +129,8 @@ Paul Jacobs (CEO 2005-2014):
 - Was eventually forced off the board in 2018 after attempting to take the company private
 - His tenure is viewed as somewhat of a ""lost era"" for Qualcomm, though the Snapdragon development proved valuable long-term
 
-In summary, while Irwin Jacobs was transformational in establishing Qualcomm's core business model and technology leadership, Paul Jacobs' tenure was more mixed - with some strategic missteps but also laying groundwork in areas like Snapdragon that would prove important later. The contrast between their impacts is reflected in how Irwin is revered as a visionary founder while Paul was ultimately pushed out of the company's leadership.",0.8995079689461711,1.0,1.0
-12,What is the Scandinavian connection to Qualcomm's early rise?,"I cannot determine any Scandinavian connection to Qualcomm's early rise from the provided context. The context discusses various aspects of Qualcomm's business model, licensing strategy, and growth but does not mention any specific connections to Scandinavia or Scandinavian companies/partners. If there was a Scandinavian connection, it is not included in the provided conversation transcript.",0.8884472904120108,1.0,1.0
+In summary, while Irwin Jacobs was transformational in establishing Qualcomm's core business model and technology leadership, Paul Jacobs' tenure was more mixed - with some strategic missteps but also laying groundwork in areas like Snapdragon that would prove important later. The contrast between their impacts is reflected in how Irwin is revered as a visionary founder while Paul was ultimately pushed out of the company's leadership.",0.8995079689461711,1,1
+12,What is the Scandinavian connection to Qualcomm's early rise?,"The context discusses various aspects of Qualcomm's business model, licensing strategy, and growth but does not mention any specific connections to Scandinavia or Scandinavian companies/partners. If there was a Scandinavian connection, it is not included in the provided conversation transcript.",0.8884472904120108,1,1
 13,When did AWS formed and who first head of AWS techincally?,"Based on the provided context, AWS was first formed in 2002 and Collin Brier was technically the first head of AWS. Here are the key details:
 
 1. In 2002, AWS was initially launched as a division within Amazon that provided APIs to let developers access Amazon's product catalog data. This early version of AWS lived within the Amazon Associates Program, which was run by Collin Brier, making him technically the first head of AWS.
@@ -141,18 +141,18 @@ In summary, while Irwin Jacobs was transformational in establishing Qualcomm's c
 
 4. Under Jassy's leadership, AWS was reimagined and relaunched as a cloud computing platform, with S3 launching in 2006 as its first major infrastructure service, followed by EC2 later that year.
 
-So while AWS technically formed in 2002 with Collin Brier as its first head, the AWS we know today as a cloud computing platform really took shape after Andy Jassy took over leadership around 2003-2004.",0.9135865605037884,1.0,0.5555555555555556
+So while AWS technically formed in 2002 with Collin Brier as its first head, the AWS we know today as a cloud computing platform really took shape after Andy Jassy took over leadership around 2003-2004.",0.9135865605037884,1,0.5555555555555556
 14,What was the final words by Amazon CTO Werner Vogels in Quora Post in 2011?,"According to the context, Werner Vogels wrote in his 2011 Quora post: ""The excess capacity story is a myth. It was never a matter of selling excess capacity. Actually, within two months after launch, AWS would have already burned through the excess amazon.com capacity. Amazon Web Services was always considered a business by itself with the expectation that it could even grow as big as the amazon.com retail operation.""
 
-This quote directly refuted the common myth that AWS was created to sell Amazon's excess server capacity and clarified that AWS was intentionally designed as a standalone business from the beginning.",0.9135865600576979,1.0,0.7142857142857143
-15,What boots and jacket we often see Jeff Bezos in ?,"I apologize, but I don't see any specific mentions of Jeff Bezos' boots or jacket choices in the provided context. While there is a brief reference to Bezos in ""cowboy boots"" when discussing his connection to West Texas (where Blue Origin operations are based), the context doesn't provide enough detail to make specific claims about what boots or jacket he typically wears. To provide an accurate answer about Bezos' typical attire, we would need additional context with those specific details.",0.844560154216121,1.0,0.2
-16,Where is Blue Origins operations are based in?,"Based on the provided context, I cannot determine where Blue Origin's operations are based. While Blue Origin is mentioned several times in the conversation, particularly in comparison to SpaceX's funding and approach, their headquarters location is not specified in the text. To provide an accurate answer, I would need additional context that includes this specific information.",0.7975872311253903,1.0,0.6
-17,Which was one of the first free email services?,"I cannot determine from the provided context which was one of the first free email services. While Gmail is briefly mentioned in the context as being given away for free to consumers by Google, the transcript does not discuss which email service was one of the first free ones historically. To properly answer this question, we would need additional historical context about early free email services.",0.7766113956276646,1.0,0.0
+This quote directly refuted the common myth that AWS was created to sell Amazon's excess server capacity and clarified that AWS was intentionally designed as a standalone business from the beginning.",0.9135865600576979,1,0.7142857142857143
+15,What boots and jacket we often see Jeff Bezos in ?," While there is a brief reference to Bezos in ""cowboy boots"" when discussing his connection to West Texas (where Blue Origin operations are based), the context doesn't provide enough detail to make specific claims about what boots or jacket he typically wears. To provide an accurate answer about Bezos' typical attire, we would need additional context with those specific details.",0.844560154,1,0.2
+16,Where is Blue Origins operations are based in?,"Based on the provided context, I cannot determine where Blue Origin's operations are based. While Blue Origin is mentioned several times in the conversation, particularly in comparison to SpaceX's funding and approach, their headquarters location is not specified in the text. To provide an accurate answer, I would need additional context that includes this specific information.",0.7975872311253903,1,0.6
+17,Which was one of the first free email services?,"While Gmail is briefly mentioned in the context as being given away for free to consumers by Google, the transcript does not discuss which email service was one of the first free ones historically. To properly answer this question, we would need additional historical context about early free email services.",0.7766113956276646,1,0
 18,When was the summit that eventually lead to the creation of Visa?,"According to the context, the summit that eventually led to the creation of Visa took place in October 1968 in Columbus, Ohio. This summit occurred when the BankAmericard licensees (franchisee banks) demanded a meeting with Bank of America to air their grievances about the operational problems with the system. Bank of America sent two mid-level marketing managers to face the angry mob of franchisee banks.
 
 During this summit, Dee Hock, who was then the BankAmericard franchisee program manager from Seattle National Bank of Commerce, was put on a committee. During the lunch break, Dee proposed that instead of just taking grievances back to Bank of America, the committee should design and propose a new way of operating the whole system. This proposal was voted on and approved by the group, though most attendees likely thought nothing would come of it.
 
-This summit proved to be the crucial turning point that eventually led to the creation of National BankAmericard Inc. (NBI), which would later become Visa. While many attendees and the Bank of America representatives thought the committee would accomplish little, Dee Hock used this opportunity to begin creating what would become Visa's organizational structure.",0.9053403333338425,1.0,1.0
+This summit proved to be the crucial turning point that eventually led to the creation of National BankAmericard Inc. (NBI), which would later become Visa. While many attendees and the Bank of America representatives thought the committee would accomplish little, Dee Hock used this opportunity to begin creating what would become Visa's organizational structure.",0.9053403333338425,1,1
 19,What is Visa's net income margin and is there a company with a better margin?,"According to the context, Visa has a 50% net income margin, meaning of their approximately $30 billion in revenue, their net income was $15 billion. This appears to be the highest net income margin among large-scale companies.
 
 For comparison, other major companies' net income margins mentioned in the context are:
@@ -163,7 +163,7 @@ For comparison, other major companies' net income margins mentioned in the conte
 
 The context explicitly states that ""with 50% net income margins, this is literally the most profitable large-scale company in the world"" and that they ""don't know of any other businesses of this size or even 5 or 10 times smaller that have over a 50% net income margin.""
 
-This exceptional profitability is enabled by Visa's incredibly high gross margins of 98%, as they have virtually no variable costs or cost of goods sold in their business model.",0.903645792124396,1.0,0.9
+This exceptional profitability is enabled by Visa's incredibly high gross margins of 98%, as they have virtually no variable costs or cost of goods sold in their business model.",0.903645792,1,0.9
 20,Visa is the global sponsor of what?,"According to the context, Visa is the global sponsor of the Olympics. Some key details about this sponsorship:
 
 1. Visa became the first global Olympic sponsor in 1986 when they paid $17 million for the rights (plus another $23 million in media spending)
@@ -176,7 +176,7 @@ This exceptional profitability is enabled by Visa's incredibly high gross margin
 
 5. The Olympics sponsorship was particularly valuable because it was truly global - unlike other sporting events like the Super Bowl or World Cup which might miss certain key markets
 
-This sponsorship has been a key part of Visa's global brand building strategy and helped establish them as a premium, trusted payment brand worldwide.",0.9027119672047134,1.0,1.0
+This sponsorship has been a key part of Visa's global brand building strategy and helped establish them as a premium, trusted payment brand worldwide.",0.9027119672047134,1,1
 21,"In 1976, Steve Jobs along with Steve Wozniak created the game, Breakout, for Atari and Nolan Bushnell. Three industries were born concurrent with the creation of this game. What where they?","According to the context, the three industries born around this time were:
 
 1. The home video game console business - Started by Magnavox with the Odyssey and copied by Atari with Pong
@@ -185,15 +185,15 @@ This sponsorship has been a key part of Visa's global brand building strategy an
 
 3. The personal home computer business - Started by Steve Jobs and Steve Wozniak with Apple after their work on Breakout for Atari
 
-The passage specifically notes: ""Just like that, not one, not two, but three industries are born. You've got the home video game console business with Magnavox and the Odyssey that Atari copied with Pong, you've got the arcade video game business that Atari is really entering here, it starts to take off faster than anything, and then you've got the personal home computer business that Steve and Woz started with Apple.""",0.8731058588460602,1.0,0.7777777777777778
+The passage specifically notes: ""Just like that, not one, not two, but three industries are born. You've got the home video game console business with Magnavox and the Odyssey that Atari copied with Pong, you've got the arcade video game business that Atari is really entering here, it starts to take off faster than anything, and then you've got the personal home computer business that Steve and Woz started with Apple.""",0.8731058588460602,1,0.7777777777777778
 22,What does Nintendo mean?,"According to the context, the name Nintendo has multiple meanings based on its kanji characters (Nin, Ten, and Do). It can be interpreted as ""leave luck to heaven,"" which references:
 
 1. Luck in playing cards (as Nintendo started as a playing card company)
 2. The entrepreneurial spirit of a new venture
 3. A coded reference to gambling, specifically through the character ""Ten"" which referenced Tengu, a mythical spirit associated with gambling and casinos (which were illegal in Japan at the time)
 
-The name choice was particularly meaningful given Nintendo's origins as a playing card manufacturer that did significant business with gambling parlors and the Yakuza (Japanese organized crime) who operated illegal casinos in Japan. The multiple meanings embedded in the name reflected both the company's public-facing business (playing cards) and its more discreet connections to gambling operations.",0.8927255653850936,1.0,1.0
-23,What was a key strength of Hiroshi Yamauchi? This is something that he was just good at. ,"I cannot determine Hiroshi Yamauchi's key strengths from the provided context. While Nintendo is mentioned several times in discussions about the gaming industry and their approach to hardware security/DRM, there is no specific discussion of Hiroshi Yamauchi or his personal strengths and capabilities. To make claims about his strengths would require additional context about him specifically.",0.8108552603082737,1.0,0.75
+The name choice was particularly meaningful given Nintendo's origins as a playing card manufacturer that did significant business with gambling parlors and the Yakuza (Japanese organized crime) who operated illegal casinos in Japan. The multiple meanings embedded in the name reflected both the company's public-facing business (playing cards) and its more discreet connections to gambling operations.",0.8927255653850936,1,1
+23,What was a key strength of Hiroshi Yamauchi? This is something that he was just good at. ,"While Nintendo is mentioned several times in discussions about the gaming industry and their approach to hardware security/DRM, there is no specific discussion of Hiroshi Yamauchi or his personal strengths and capabilities. To make claims about his strengths would require additional context about him specifically.",0.8108552603082737,1,0.75
 24,"What are the 3 interrelated things that make Renaissance Technologies unique from other investment firms with similar commodities (smartest people with the best data and infrastructure), such as Citadel, DE Saw, Two Sigma, and Jane Street?","Based on the context, the 3 interrelated things that make Renaissance Technologies (RenTech) unique are:
 
 1. They get the smartest people in the world to collaborate rather than compete:
@@ -215,19 +215,19 @@ The name choice was particularly meaningful given Nintendo's origins as a playin
 - This creates strong incentives to stay rather than leave for competitors
 - The median employee tenure is 14 years, showing the effectiveness of this structure
 
-These three elements work together to create a unique culture and operating model that has helped RenTech maintain its exceptional performance over decades.",0.9075858177918132,1.0,1.0
+These three elements work together to create a unique culture and operating model that has helped RenTech maintain its exceptional performance over decades.",0.9075858177918132,1,1
 25,"What series of philosophical arguments presented by an ancient Greek philosopher does Jim Simons, the founder of Renaissance Technologies, learn about as a 4-year-old that sparks his interest in math?","According to the context, as a 4-year-old, Jim Simons stumbles upon Zeno's paradoxes from ancient Greek times. Specifically, the paradox he encounters relates to the concept that if you continuously divide a quantity by two, you will never reach zero - you will only asymptotically approach it. Division alone cannot get you to zero; you need addition or subtraction to reach it.
 
 The context provides a practical example of how young Simons applied this concept: When his family needed to go to the gas station, he suggested they should just use half the gas in the tank each time, reasoning that they would always have some gas left. Of course, as the passage notes, what the 4-year-old Simons didn't realize was that this approach would mean they wouldn't be able to travel very far.
 
-This early encounter with mathematical philosophy appears to have sparked Simons' interest in mathematics, which would later become central to his academic career and the founding of Renaissance Technologies.",0.8904650536826051,1.0,0.8333333333333334
-26,"In the year 2000, when the tech bubble bursts and the market is down big, what was the Medallion Fund's % gross returns?","According to the context, in the year 2000 when the tech bubble burst, the Medallion Fund achieved gross returns of 128% while the broader market was down significantly. This was particularly notable because it demonstrated Medallion's ability to generate strong returns even during market downturns, highlighting the uncorrelated nature of their returns to the overall market.",0.8975871129659125,1.0,0.7142857142857143
-27,who was the first rocket engine engineer in spacex,"According to the context, Tom Mueller was SpaceX's first rocket engine engineer. He was described as ""probably the best, most impressive rocket engine engineer in the world"" when he joined SpaceX. Prior to SpaceX, Mueller had worked at Hughes Aviation and TRW Space, and was known in the industry as a real savant about engines. He helped Elon Musk put together detailed spreadsheets about rocket specifications and costs in the early days of SpaceX. Mueller was instrumental in designing the Merlin engine, which became the foundation for SpaceX's rockets, starting with a single engine on the Falcon 1 and later expanding to nine engines on the Falcon 9 in a modular design approach.",0.9148047206860734,1.0,0.6666666666666666
+This early encounter with mathematical philosophy appears to have sparked Simons' interest in mathematics, which would later become central to his academic career and the founding of Renaissance Technologies.",0.8904650536826051,1,0.8333333333333334
+26,"In the year 2000, when the tech bubble bursts and the market is down big, what was the Medallion Fund's % gross returns?","According to the context, in the year 2000 when the tech bubble burst, the Medallion Fund achieved gross returns of 128% while the broader market was down significantly. This was particularly notable because it demonstrated Medallion's ability to generate strong returns even during market downturns, highlighting the uncorrelated nature of their returns to the overall market.",0.8975871129659125,1,0.7142857142857143
+27,who was the first rocket engine engineer in spacex,"According to the context, Tom Mueller was SpaceX's first rocket engine engineer. He was described as ""probably the best, most impressive rocket engine engineer in the world"" when he joined SpaceX. Prior to SpaceX, Mueller had worked at Hughes Aviation and TRW Space, and was known in the industry as a real savant about engines. He helped Elon Musk put together detailed spreadsheets about rocket specifications and costs in the early days of SpaceX. Mueller was instrumental in designing the Merlin engine, which became the foundation for SpaceX's rockets, starting with a single engine on the Falcon 1 and later expanding to nine engines on the Falcon 9 in a modular design approach.",0.9148047206860734,1,0.6666666666666666
 28,can you tell me total number of people working in Spacex,"Based on the provided context, there is only one specific mention of SpaceX's employee count, which states that ""It's obviously a 7000 person company now."" This reference appears to be from around 2020 when this conversation was recorded.
 
 However, since this number is from a specific point in time and may be outdated, and no other employee counts are mentioned in the context, I cannot make any claims about current employee numbers or how they've changed over time.
 
-The most accurate answer based solely on the provided context is that SpaceX had approximately 7,000 employees as of 2020.",0.8387987378688679,1.0,1.0
+The most accurate answer based solely on the provided context is that SpaceX had approximately 7,000 employees as of 2020.",0.8387987378688679,1,1
 29,What is the cost of rocket travel based on the materials?,"According to the context, the cost of raw materials for rockets is surprisingly low - only about 2% of what rockets actually cost to produce. Specifically, when calculating the cost of goods sold for aerospace-grade aluminum alloys, plus titanium, copper, and carbon fiber on the open commodities market, it amounts to approximately 2% of the final rocket cost.
 
 This reveals a massive disparity between material costs and final rocket prices, suggesting that the bulk of rocket costs come from:
@@ -240,7 +240,7 @@ This reveals a massive disparity between material costs and final rocket prices,
 
 This insight was part of what led SpaceX to pursue vertical integration - by controlling the manufacturing process end-to-end and eliminating the multiple layers of contractors, they could dramatically reduce costs even though the raw material costs remained similar.
 
-The context doesn't provide the specific dollar amounts for the raw materials, but emphasizes that the actual materials represent a surprisingly small portion of total rocket costs compared to most other manufacturing industries where materials typically make up a much larger percentage of the final product cost.",0.9222700142287403,1.0,0.4666666666666667
+The context doesn't provide the specific dollar amounts for the raw materials, but emphasizes that the actual materials represent a surprisingly small portion of total rocket costs compared to most other manufacturing industries where materials typically make up a much larger percentage of the final product cost.",0.9222700142287403,1,0.4666666666666667
 30,what is the idea about mars oasis,"Based on the provided context, Mars Oasis was Elon Musk's initial concept and gesture to inspire people about space exploration before SpaceX was founded. The key elements of Mars Oasis were:
 
 1. It was meant to be an inspirational project rather than a business venture, with Musk willing to spend $10-20 million of his own money from the Zip2 sale
@@ -258,7 +258,7 @@ The context doesn't provide the specific dollar amounts for the raw materials, b
 - The Russian rocket purchase attempt failed
 - Musk pivoted to creating SpaceX as an actual rocket company instead
 
-Mars Oasis represented Musk's first attempt to revitalize public interest in space exploration before he realized he needed to build an actual rocket company to achieve his broader space exploration goals.",0.9012762210749574,1.0,0.9411764705882353
+Mars Oasis represented Musk's first attempt to revitalize public interest in space exploration before he realized he needed to build an actual rocket company to achieve his broader space exploration goals.",0.9012762210749574,1,0.9411764705882353
 31,What was Elon Muskï¿½s initial investment in SpaceX?,"According to the context, Elon Musk initially invested around $100 million total into SpaceX, which came from his earnings from PayPal. Specifically:
 
 - After being ousted from PayPal in 2000, Musk had about $20 million available from the sale of his first company Zip2
@@ -296,7 +296,7 @@ It's worth noting that while $100 million was Musk's personal investment, SpaceX
 - Achieved profitability while maintaining growth
 - Built the business to over $1.13B in revenue without requiring additional capital since 2001
 
-This focused strategy transformed Brooks from a struggling $60M business losing $5M annually in 2001 to a profitable billion-dollar company and the #1 running shoe brand in the United States with 21.5% market share in performance running.",0.9468790626626244,1.0,1.0
+This focused strategy transformed Brooks from a struggling $60M business losing $5M annually in 2001 to a profitable billion-dollar company and the #1 running shoe brand in the United States with 21.5% market share in performance running.",0.9468790626626244,1,1
 33,How did Brooks Running approach to market segmentation give it a competitive advantage?,"Based on the provided context, Brooks Running's market segmentation approach provided several key competitive advantages:
 
 1. Exclusive Focus on Performance Runners
@@ -325,7 +325,7 @@ This focused segmentation strategy helped Brooks:
 - Maintain higher margins than competitors who served multiple segments
 - Build stronger brand loyalty among serious runners
 
-The success of this strategy validated their decision to serve one segment extremely well rather than trying to compete across multiple market segments like their larger competitors.",0.9531209373373757,1.0,1.0
+The success of this strategy validated their decision to serve one segment extremely well rather than trying to compete across multiple market segments like their larger competitors.",0.9531209373373757,1,1
 34,What was the patent Heddy developed? Was it publicly available?,"Based on the context, Hedy Lamarr and composer George Antheil developed and patented frequency hopping spread spectrum technology in 1942. This was the first technical description of spread spectrum technology in a patent.
 
 Specifically:
@@ -335,13 +335,13 @@ Specifically:
 - The technology was intended to help guide radio-controlled torpedoes while preventing Nazi forces from jamming the signals
 - While innovative, it could not be implemented during WWII due to limitations in computing technology at the time - it would have required digital computing capabilities that didn't yet exist
 
-So in summary, while Hedy Lamarr and George Antheil developed and patented this groundbreaking frequency hopping technology, the patent itself was kept confidential by the US military for 40 years and was not publicly available until 1981. This technology later became foundational for modern spread spectrum communications used in wireless systems today.",0.9046061943095831,1.0,0.8125
+So in summary, while Hedy Lamarr and George Antheil developed and patented this groundbreaking frequency hopping technology, the patent itself was kept confidential by the US military for 40 years and was not publicly available until 1981. This technology later became foundational for modern spread spectrum communications used in wireless systems today.",0.9046061943095831,1,0.8125
 35,Why were patents developed by Heddy had 88 frequency hops ?,"According to the context, Hedy Lamarr's patent had 88 frequency hops because they used a player piano scroll as the prototype mechanism for synchronizing the frequency hopping, and there are 88 keys on a piano. Specifically, they mapped each piano note/key to a new frequency, and since a standard piano has 88 keys, this resulted in 88 different frequency hops in their technical description of the patent.
 
 The relevant quote from the context states:
 
-""The way that they prototyped this, Hedy, in the early 1940s, is they took two player piano scrolls that had the same basically song, and they mapped each note to a new frequency. They put the same player piano in the same scroll on the receiver that they did on the transmitter, and they pressed play on the player piano song at the same time so it would know exactly where to hop around. There were 88 frequency hops in their technical description of the patent because there are 88 keys on a piano.""",0.8989665726191035,1.0,0.8888888888888888
-36,What was the role of Trump administration on the takeover of Broadcomm over Qualcomm and why the decision was made?,"I cannot provide an accurate answer about the Trump administration's role in the Broadcom-Qualcomm takeover attempt, as this specific topic is not covered in the provided context. While the context discusses various aspects of Qualcomm's business and history, it does not contain information about the Trump administration's involvement with Broadcom's attempted takeover of Qualcomm. To provide an accurate answer, I would need context that specifically discusses this event and the administration's role in it.",0.8792471106978959,1.0,0.4
+""The way that they prototyped this, Hedy, in the early 1940s, is they took two player piano scrolls that had the same basically song, and they mapped each note to a new frequency. They put the same player piano in the same scroll on the receiver that they did on the transmitter, and they pressed play on the player piano song at the same time so it would know exactly where to hop around. There were 88 frequency hops in their technical description of the patent because there are 88 keys on a piano.""",0.8989665726191035,1,0.8888888888888888
+36,What was the role of Trump administration on the takeover of Broadcomm over Qualcomm and why the decision was made?,"I cannot provide an accurate answer about the Trump administration's role in the Broadcom-Qualcomm takeover attempt, as this specific topic is not covered in the provided context. While the context discusses various aspects of Qualcomm's business and history, it does not contain information about the Trump administration's involvement with Broadcom's attempted takeover of Qualcomm. To provide an accurate answer, I would need context that specifically discusses this event and the administration's role in it.",0.8792471106978959,1,0.4
 37,what is one decision Porsche made to improve business that went against industry norm?,"Based on the context, one major counter-intuitive decision Porsche made was to enter the SUV market with the Cayenne in 2003, which went strongly against their sports car heritage and industry expectations. This was a controversial move for several key reasons:
 
 1. Porsche was known exclusively as a sports car manufacturer, and making an SUV seemed to go against their brand identity and core competency.
@@ -358,14 +358,14 @@ Despite the unconventional nature of this decision, it proved to be hugely succe
 - The move did not damage the brand's prestige as many feared it would
 - It set a precedent that other luxury sports car makers would eventually follow
 
-This decision demonstrated Porsche's willingness to break from tradition and industry norms to pursue new market opportunities, while still maintaining their brand value and reputation for excellence.",0.9085099052403454,1.0,1.0
+This decision demonstrated Porsche's willingness to break from tradition and industry norms to pursue new market opportunities, while still maintaining their brand value and reputation for excellence.",0.9085099052403454,1,1
 38,What city owns 20% of volkswagen and why,"According to the context, the state of Lower Saxony (not a city) owns 20% of Volkswagen. This ownership stake dates back to when Volkswagen was reconstituted after World War II.
 
 Specifically, when Volkswagen was reformed after WWII, its only shareholders were the German government - both the national West German state and the state of Lower Saxony. The state of Lower Saxony has maintained its 20% ownership stake even to this day.
 
 The reason for this ownership structure was that Volkswagen was considered a ""national treasure"" in Germany, and the government wanted to prevent corporate takeovers. This was even codified in the ""Volkswagen Law"" which prevented any shareholder from exercising more than 20% of voting rights regardless of their actual ownership stake. This law was specifically designed to protect Volkswagen Group from takeovers.
 
-The state of Lower Saxony's 20% ownership stake remains significant today and continues to give the state government influence over Volkswagen's governance and strategic decisions.",0.95,1.0,1.0
+The state of Lower Saxony's 20% ownership stake remains significant today and continues to give the state government influence over Volkswagen's governance and strategic decisions.",0.95,1,1
 39,What's Startup Garage at Stanford's GSB?,"Based on the context, Startup Garage is a legendary interdisciplinary class at Stanford's Graduate School of Business (GSB) that has the following key characteristics:
 
 1. Structure:
@@ -387,24 +387,24 @@ The state of Lower Saxony's 20% ownership stake remains significant today and co
 - Designed to help students actually start real companies, not just as an academic exercise
 - While most university entrepreneurship programs rarely produce successful companies, Startup Garage has produced at least one major success in DoorDash
 
-The context notes that this is one of many similar entrepreneurship classes at Stanford, with approximately 16 different classes across campus having similar premises of starting companies. However, Startup Garage stands out as one of the more prominent ones, particularly given DoorDash's success.",0.9075858180722282,1.0,0.6666666666666666
-40,Who is the owner of the shop that ispired the idea behind the doordash app?,"According to the context, Chloe, who owned the Chantal Guillon Macaron Shop in Downtown Palo Alto, was the person who inspired the idea behind DoorDash. During a design interview, as the founders were about to leave after pitching their original iPad-based customer feedback app, Chloe showed them a thick booklet of delivery orders and expressed her frustration about not having drivers to fulfill them, saying ""This drives me crazy. I have no drivers to fulfill them and I'm the one doing all of it."" This interaction led the founders to realize there was a significant problem around delivery for local restaurants and businesses, which ultimately inspired them to create what would become DoorDash.",0.9320821292108807,1.0,1.0
+The context notes that this is one of many similar entrepreneurship classes at Stanford, with approximately 16 different classes across campus having similar premises of starting companies. However, Startup Garage stands out as one of the more prominent ones, particularly given DoorDash's success.",0.9075858180722282,1,0.6666666666666666
+40,Who is the owner of the shop that ispired the idea behind the doordash app?,"According to the context, Chloe, who owned the Chantal Guillon Macaron Shop in Downtown Palo Alto, was the person who inspired the idea behind DoorDash. During a design interview, as the founders were about to leave after pitching their original iPad-based customer feedback app, Chloe showed them a thick booklet of delivery orders and expressed her frustration about not having drivers to fulfill them, saying ""This drives me crazy. I have no drivers to fulfill them and I'm the one doing all of it."" This interaction led the founders to realize there was a significant problem around delivery for local restaurants and businesses, which ultimately inspired them to create what would become DoorDash.",0.9320821292108807,1,1
 41,Where was the first customer of paloaltodelivery.com working at? what was he doing at Stanford?,"According to the context, the first customer was Bruce Barcott, who:
 - Works for Leafly, the marijuana company
 - Was a visiting author at Stanford
 - Had written a book called ""Weed the People"" about legalizing marijuana
 - Was staying somewhere near Alpine Road behind the Dish on Stanford's campus while visiting as an author
 
-He was at Stanford as a visiting author, presumably to speak or present about his book ""Weed the People"" about marijuana legalization.",0.8000000000000002,1.0,0.7142857142857143
+He was at Stanford as a visiting author, presumably to speak or present about his book ""Weed the People"" about marijuana legalization.",0.8000000000000002,1,0.7142857142857143
 42,What seminar did Sam Walton enroll himself in in poughkeepsie New York,"According to the context, in 1966, Sam Walton enrolled himself in a seminar at IBM in Poughkeepsie, New York on how to use computing technology in business. He attended this seminar as the Chairman/CEO of Walmart, despite being somewhat reluctant to spend money on computers. However, he recognized that computer backend retailers would likely disrupt traditional retailers who didn't adopt computing technology, similar to how discounting had disrupted previous retail models.
 
 This seminar proved to be quite significant, as it led Walmart to become an early adopter of computing technology in retail. At the seminar, Walton met Ron Mayer, who would later briefly become CEO of Walmart, and helped initiate the company's technological transformation.
 
-The importance of this decision was highlighted by Abe Marks, President of the National Mass Retailers Institute, who stated that ""Without the computer, Sam Walton could not have done what he's done. He could not have built a retailing empire the size of what he's built, the way he built it.""",0.9014361834120839,1.0,0.7142857142857143
+The importance of this decision was highlighted by Abe Marks, President of the National Mass Retailers Institute, who stated that ""Without the computer, Sam Walton could not have done what he's done. He could not have built a retailing empire the size of what he's built, the way he built it.""",0.9014361834120839,1,0.7142857142857143
 43,What Percentage of Rent to Sales did Sam Waltons first Ben Franklin cost,"According to the context, Sam Walton's first Ben Franklin store in Newport, Arkansas had a rent that was 5% of sales, which was described as ""the highest rent anybody had ever heard of in the variety store business."" Specifically, the text notes that ""it had sales of about $72,000 a year, but its rent was 5 percent of sales which I thought sounded fine at the time but which, it turned out, was the highest rent anybody had ever heard of in the variety store business. No one paid 5 percent of sales for rent.""
 
-This high rent percentage ultimately became problematic for Walton when the lease expired and the landlord refused to renew it, despite Walton having turned the store into a very successful operation.",0.8679178699175394,1.0,0.5
-44,How much top line revenue % did walmart see a year after their IPO 1972,"According to the context, Walmart grew their top line revenue by 77% in their first year after IPO (1971). This is specifically mentioned in the passage: ""The next year, 1971, they did grow top line revenue, 77%.""",0.7577481350201489,1.0,0.0
+This high rent percentage ultimately became problematic for Walton when the lease expired and the landlord refused to renew it, despite Walton having turned the store into a very successful operation.",0.8679178699175394,1,0.5
+44,How much top line revenue % did walmart see a year after their IPO 1972,"According to the context, Walmart grew their top line revenue by 77% in their first year after IPO (1971). This is specifically mentioned in the passage: ""The next year, 1971, they did grow top line revenue, 77%.""",0.7577481350201489,1,0
 45,why did Nvidia use a startup Foundry emulation software to produce their chips at some point,"According to the context, NVIDIA used startup foundry emulation software around 1996-1997 when they were in a dire situation with only 9 months of runway left. They needed to design and ship a new chip (what would become the RIVA 128) in that timeframe, but the normal chip design cycle took 2 years.
 
 The key reasons they used emulation software were:
@@ -423,13 +423,13 @@ The emulator allowed them to:
 
 However, the emulation process was extremely slow - rendering one frame every 30 seconds compared to normal 30-60 frames per second. This made testing extremely tedious but was still faster overall than traditional methods.
 
-NVIDIA was reportedly the only customer of this emulation software startup, which later went out of business. While risky, this desperate move helped save the company by allowing them to ship the RIVA 128 chip before running out of cash.",0.9002080412930775,1.0,1.0
-46,What did Nvidia call its first graphics card,"According to the context, NVIDIA's first graphics card was called the NV1, followed by the RIVA 128. The RIVA 128 was the critical product that helped save the company when they had only nine months of runway left. Later, in 1999, they rebranded their products and launched the GeForce line, with the GeForce 256 being their first card under that brand name.",0.8983891444487175,1.0,0.4
+NVIDIA was reportedly the only customer of this emulation software startup, which later went out of business. While risky, this desperate move helped save the company by allowing them to ship the RIVA 128 chip before running out of cash.",0.9002080412930775,1,1
+46,What did Nvidia call its first graphics card,"According to the context, NVIDIA's first graphics card was called the NV1, followed by the RIVA 128. The RIVA 128 was the critical product that helped save the company when they had only nine months of runway left. Later, in 1999, they rebranded their products and launched the GeForce line, with the GeForce 256 being their first card under that brand name.",0.8983891444487175,1,0.4
 47,Why did Jensen decide to write and send a letter through a physical address to Morris of TSMC,"According to the context, Jensen wrote a physical letter to Morris Chang at TSMC because he could not get in touch with TSMC through normal business channels - all of TSMC's salespeople had been ignoring NVIDIA's attempts to contact them. This was understandable at the time since NVIDIA was seen as just another struggling startup in a sea of many similar startups.
 
 The letter strategy worked - Morris Chang personally read the letter when it arrived in Taiwan and immediately called Jensen directly at NVIDIA's office. This led to TSMC becoming NVIDIA's primary chip manufacturer, forming a crucial long-term partnership between the companies that continues today.
 
-The context suggests this was a pivotal moment, as having TSMC as a manufacturing partner was a significant upgrade from the secondary foundries NVIDIA had been using previously. The direct letter to Morris Chang helped NVIDIA break through and establish this important relationship that they had been unable to initiate through normal business development channels.",0.9095349451960418,1.0,1.0
+The context suggests this was a pivotal moment, as having TSMC as a manufacturing partner was a significant upgrade from the secondary foundries NVIDIA had been using previously. The direct letter to Morris Chang helped NVIDIA break through and establish this important relationship that they had been unable to initiate through normal business development channels.",0.9095349451960418,1,1
 48,What was Peloton original price,"According to the context, Peloton's pricing evolved in the following way:
 
 1. Initial Kickstarter price: Around $1,500
@@ -447,7 +447,7 @@ The context suggests this was a pivotal moment, as having TSMC as a manufacturin
 - Reduced to $1,895 when they introduced the Bike+ at $2,495
 - Further reduced to $1,495 during later pricing changes
 
-The key insight was that raising the price from $1,200 to $2,245 actually helped the product succeed by positioning it as a premium offering and attracting the right customer base with low price sensitivity.",0.8975880221136056,1.0,0.15384615384615385
+The key insight was that raising the price from $1,200 to $2,245 actually helped the product succeed by positioning it as a premium offering and attracting the right customer base with low price sensitivity.",0.8975880221136056,1,0.15384615384615385
 49,How much stock did John Foley had in Peloton in 2022,"According to the context, in 2022 John Foley controlled approximately 39.6% of the voting power of Peloton's stock through a dual-class structure where founders and insiders had shares with 20 votes per share. The context mentions that even at the depressed stock price in early 2022, Foley's remaining stock position was worth approximately $500 million (after having sold $96 million worth of stock in 2021).
 
 The exact number of shares is not explicitly stated in the context, but we know:
@@ -456,15 +456,15 @@ The exact number of shares is not explicitly stated in the context, but we know:
 3. He had previously sold $96 million worth of stock in 2021
 4. Along with his co-founders who owned another 18% of voting power, they controlled over 50% of the company's votes
 
-The dual-class structure with 20 votes per share for insider shares means his actual economic ownership percentage would have been lower than his 39.6% voting control percentage.",0.8754914983167261,1.0,1.0
-50,What percentage of NBA league revenue since 1983 has been contractually going to players?,"According to the context, since 1983 when the NBA signed a landmark collective bargaining agreement with the Players Association, approximately 53% of the league's total gross revenue (not profit) has been contractually allocated to the players. This agreement established players as true economic partners in the league, receiving over half of all revenue. The percentage has stayed roughly around 50% in subsequent collective bargaining agreements, though the exact number has fluctuated somewhat over time.",0.9044222516902949,1.0,1.0
+The dual-class structure with 20 votes per share for insider shares means his actual economic ownership percentage would have been lower than his 39.6% voting control percentage.",0.8754914983167261,1,1
+50,What percentage of NBA league revenue since 1983 has been contractually going to players?,"According to the context, since 1983 when the NBA signed a landmark collective bargaining agreement with the Players Association, approximately 53% of the league's total gross revenue (not profit) has been contractually allocated to the players. This agreement established players as true economic partners in the league, receiving over half of all revenue. The percentage has stayed roughly around 50% in subsequent collective bargaining agreements, though the exact number has fluctuated somewhat over time.",0.9044222516902949,1,1
 51,"What is the analogy in the Podcast for ""Bitcoin is calculator, let's build a computer""?","Looking through the provided podcast transcript, I don't actually see an analogy comparing Bitcoin to a calculator and building a computer. The closest analogies discussed are:
 
 1. Comparing Bitcoin to different layers of the financial stack (like a bank or central bank) rather than a credit card
 2. Comparing Bitcoin's evolution to different funding stages of a startup (seed, Series A, growth stage etc.)
 3. Comparing Bitcoin to gold as a store of value
 
-Without additional context or podcast segments, I cannot definitively answer what the specific ""calculator to computer"" analogy is, as it does not appear in the provided transcript. If this analogy exists, it would need to be from a different part of the podcast or a different source entirely.",0.821228524482212,1.0,1.0
+Without additional context or podcast segments, I cannot definitively answer what the specific ""calculator to computer"" analogy is, as it does not appear in the provided transcript. If this analogy exists, it would need to be from a different part of the podcast or a different source entirely.",0.821228524,1,1
 52,What is the connection to Vitalik to the year 1994 and what was his parent's condition and Russia during the time?,"Based on the provided context, here are the key details about Vitalik's connection to 1994 and his parents' situation in Russia:
 
 Birth and Family Background:
@@ -488,15 +488,15 @@ Despite the challenging circumstances:
 - Their main priority was giving Vitalik every opportunity they could
 - When Vitalik was 5 years old (around 1999), they made the decision to emigrate to Canada and settled in Toronto to provide better opportunities for him
 
-The context paints a picture of Vitalik being born into a period of significant turmoil in Russia, but to educated parents who, despite their divorce, remained committed to providing him with opportunities for a better future.",0.9001632261805069,1.0,0.8333333333333334
-53,What was argument before Vtalik's presentation in Miami?,"I cannot determine what argument occurred before Vitalik's presentation in Miami from the provided context. The transcript appears to be about the history and business of the NBA and does not contain any information about Vitalik or a presentation in Miami. If you'd like to know about this specific argument, you would need to provide different or additional context that includes that information.",0.8333805275403856,1.0,0.75
+The context paints a picture of Vitalik being born into a period of significant turmoil in Russia, but to educated parents who, despite their divorce, remained committed to providing him with opportunities for a better future.",0.9001632261805069,1,0.8333333333333334
+53,What was argument before Vtalik's presentation in Miami?,"I cannot determine what argument occurred before Vitalik's presentation in Miami from the provided context. The transcript appears to be about the history and business of the NBA and does not contain any information about Vitalik or a presentation in Miami. If you'd like to know about this specific argument, you would need to provide different or additional context that includes that information.",0.8333805275403856,1,0.75
 54,what was the worst stock price percentage down in a day for NVIDIA ?,"Based on the provided context, while there are mentions of several stock drawdowns for NVIDIA, the exact worst single-day percentage drop is not specifically mentioned. The context mentions:
 
 - An 80% drop in stock price around 2008 (but this appears to be over a period, not a single day)
 - Multiple 50% drawdowns at different points in the company's history
 - A drop during the 2018 crypto winter
 
-However, the specific worst single-day percentage drop is not provided in the context. To accurately answer this question, we would need additional information not present in the given text.",0.7951587001605026,1.0,0.5
+However, the specific worst single-day percentage drop is not provided in the context. To accurately answer this question, we would need additional information not present in the given text.",0.7951587001605026,1,0.5
 55,"In 2012, What is the  competition against imageNet Database and what was the error rate compared to others & who won the competition?","Based on the provided context, in 2012:
 
 - A team from the University of Toronto won the ImageNet competition with their algorithm called AlexNet
@@ -513,16 +513,16 @@ However, the specific worst single-day percentage drop is not provided in the co
 - AlexNet used a convolutional neural network (a branch of deep learning) and implemented it using NVIDIA GPUs and CUDA
 - This was considered a breakthrough moment for artificial intelligence and deep learning, demonstrating dramatically better performance than previous approaches
 
-The victory was particularly significant because it showed that deep learning neural networks, when implemented on GPUs, could achieve dramatically better results than traditional approaches to computer vision and image recognition tasks.",0.9164516472518118,1.0,1.0
-56,What is NVIDIA free cash flow in billions  every year? ,"According to the context, NVIDIA generates $8 billion in free cash flow per year. Specifically, the text states: ""They generate $8 billion of free cash flow every year. I think they're sitting on $21 billion in cash because the last few years have been very cash generative very suddenly for them.""",0.7797613778918291,1.0,1.0
+The victory was particularly significant because it showed that deep learning neural networks, when implemented on GPUs, could achieve dramatically better results than traditional approaches to computer vision and image recognition tasks.",0.9164516472518118,1,1
+56,What is NVIDIA free cash flow in billions  every year? ,"According to the context, NVIDIA generates $8 billion in free cash flow per year. Specifically, the text states: ""They generate $8 billion of free cash flow every year. I think they're sitting on $21 billion in cash because the last few years have been very cash generative very suddenly for them.""",0.7797613778918291,1,1
 57,What is the difference between recurrent neural networks and convolutional neural networks?,"Based on the provided context, I cannot give a detailed comparison between recurrent neural networks and convolutional neural networks. While both types of networks are mentioned briefly in the context, their specific differences are not explained. The only relevant information provided is:
 
 1. Convolutional neural networks were used in the 2012 AlexNet breakthrough for image recognition
 2. Recurrent neural networks had limitations with short context windows and were sequential rather than parallel in nature
 3. Recurrent neural networks required knowing the output of each step before beginning the next one, making them sequential
 
-To provide a complete and accurate comparison between these two types of neural networks, we would need additional context specifically focused on their architectural differences, use cases, and relative advantages/disadvantages.",0.7374400073351639,1.0,0.875
-58,What did Jensen Huang say in the Stratechery interview in March 2023 about the year 2022?,"Based on the provided context, I cannot determine what Jensen Huang specifically said about the year 2022 in the Stratechery interview. While the context mentions a Stratechery interview with Jensen Huang and includes some quotes from it, none of the quotes discuss events from 2022. The interview appears to focus on NVIDIA's overall strategy, CUDA development, and their platform approach, but specific comments about 2022 are not included in the given context.",0.8379360065307001,1.0,1.0
+To provide a complete and accurate comparison between these two types of neural networks, we would need additional context specifically focused on their architectural differences, use cases, and relative advantages/disadvantages.",0.7374400073351639,1,0.875
+58,What did Jensen Huang say in the Stratechery interview in March 2023 about the year 2022?,"Based on the provided context, I cannot determine what Jensen Huang specifically said about the year 2022 in the Stratechery interview. While the context mentions a Stratechery interview with Jensen Huang and includes some quotes from it, none of the quotes discuss events from 2022. The interview appears to focus on NVIDIA's overall strategy, CUDA development, and their platform approach, but specific comments about 2022 are not included in the given context.",0.8379360065307001,1,1
 59,What is CUDA's most unique feature?,"Based on the provided context, CUDA's most unique feature is that it is a free but closed-source and proprietary development framework that only works on NVIDIA hardware. Specifically:
 
 1. It is entirely free to use - NVIDIA has never charged developers to use CUDA and its associated tools and libraries
@@ -534,7 +534,7 @@ To provide a complete and accurate comparison between these two types of neural 
 This creates a powerful business model similar to Apple's approach - NVIDIA gives away the development platform for free but makes money by selling the hardware required to run CUDA applications. This lock-in helps NVIDIA maintain pricing power and high margins on their hardware sales while building a large developer ecosystem around their platform.
 
 The context indicates this was an intentional strategic decision by NVIDIA that, while risky at the time, has proven extremely valuable in establishing their dominance in AI/ML computing where CUDA has become the de facto standard development platform.",0.9027119667993906,0.8333333333333334,0.4
-60,Where did the issuance of the first banknotes originate?,"I cannot determine where the first banknotes originated from the provided context. The context discusses the history of Visa, credit cards, and payment networks, but does not contain information about the origins of banknotes. To accurately answer this question, we would need historical context specifically about the invention and early issuance of banknotes.",0.8858576368817165,1.0,0.6666666666666666
+60,Where did the issuance of the first banknotes originate?,"I cannot determine where the first banknotes originated from the provided context. The context discusses the history of Visa, credit cards, and payment networks, but does not contain information about the origins of banknotes. To accurately answer this question, we would need historical context specifically about the invention and early issuance of banknotes.",0.8858576368817165,1,0.6666666666666666
 61,what happen on 2013 in relation to bitcoin ,"Based on the provided context, several significant events happened with Bitcoin in 2013:
 
 1. Price Movement:
@@ -557,26 +557,24 @@ The context indicates this was an intentional strategic decision by NVIDIA that,
 - This led to the shutdown of Silk Road, which had been Bitcoin's first major use case
 - The FBI seized 144,000 Bitcoins as part of the operation
 
-These events marked 2013 as a pivotal year for Bitcoin, with major price volatility, the closure of its first major use case (Silk Road), serious problems with its primary exchange (Mt. Gox), and increased mainstream attention due to the Cyprus banking crisis demonstrating Bitcoin's potential value as an alternative to traditional banking.",0.9095349472662324,1.0,0.9444444444444444
-62,does bitcoin have a higher appreciation per year as compared to gold?,"I cannot determine from the provided context whether Bitcoin has a higher appreciation per year compared to gold. While the context discusses Bitcoin and Ethereum extensively, it does not provide specific data about Bitcoin's yearly appreciation rates or make direct comparisons to gold's performance. To accurately answer this question, we would need historical price data for both Bitcoin and gold over comparable time periods.
-
-The only relevant mention of Bitcoin's returns in the context is that it achieved a ""3 million X in one decade"" which is described as ""the single greatest return in human history on any asset in one decade."" However, this alone is not enough to determine average yearly appreciation rates or make a direct comparison to gold.",0.8123694727726738,1.0,1.0
-63,how did Winklevoss brother changed the bitcoin market ,"I cannot provide an accurate answer about how the Winklevoss brothers changed the bitcoin market based on the provided context. The conversation transcript does not contain any information about the Winklevoss brothers or their impact on the bitcoin market. The context primarily discusses Sam Bankman-Fried, FTX, and the development of crypto exchanges. To provide accurate information about the Winklevoss brothers' influence on bitcoin, we would need different or additional context.",0.8794462798076962,1.0,0.5
+These events marked 2013 as a pivotal year for Bitcoin, with major price volatility, the closure of its first major use case (Silk Road), serious problems with its primary exchange (Mt. Gox), and increased mainstream attention due to the Cyprus banking crisis demonstrating Bitcoin's potential value as an alternative to traditional banking.",0.9095349472662324,1,0.9444444444444444
+62,does bitcoin have a higher appreciation per year as compared to gold?,"The only relevant mention of Bitcoin's returns in the context is that it achieved a ""3 million X in one decade"" which is described as ""the single greatest return in human history on any asset in one decade."" However, this alone is not enough to determine average yearly appreciation rates or make a direct comparison to gold.",0.8123694727726738,1,1
+63,how did Winklevoss brother changed the bitcoin market ,"The context primarily discusses Sam Bankman-Fried, FTX, and the development of crypto exchanges. To provide accurate information about the Winklevoss brothers' influence on bitcoin, we would need different or additional context.",0.8794462798076962,1,0.5
 64,"In February 1967, Warren Buffet decide to transform Berkshire into an insurance company. How much time did it take for Warrne Buffet to work out on a deal?","According to the context, Warren Buffett worked out the deal to acquire National Indemnity in just 15 minutes. Specifically, during a lunch meeting with Jack Ringwalt (National Indemnity's owner) in February 1967, Buffett hammered out a one-page deal at the price Ringwalt wanted. The deal was remarkably quick and simple - Buffett agreed to Ringwalt's key terms including:
 
 - No audited financials required
 - A promise to keep the company in Omaha
 - A promise not to fire any employees
 
-This quick deal-making was possible because Ringwalt was in a mood to sell that day, and Buffett recognized the opportunity and gave him everything he wanted in terms of deal conditions. The speed and simplicity of the transaction is highlighted by the ""15 minutes or less"" reference in the text, drawing a parallel to GEICO's famous advertising slogan.",0.9130408231872771,1.0,0.6666666666666666
+This quick deal-making was possible because Ringwalt was in a mood to sell that day, and Buffett recognized the opportunity and gave him everything he wanted in terms of deal conditions. The speed and simplicity of the transaction is highlighted by the ""15 minutes or less"" reference in the text, drawing a parallel to GEICO's famous advertising slogan.",0.9130408231872771,1,0.6666666666666666
 65,What is Warren Buffet net worth after working at Graham-Newman for two years?,"According to the context, after working at Graham-Newman for two years, Warren Buffett's net worth was $175,000. This was around 1956, and to put this amount in perspective, the average yearly salary for a worker in the United States at that point was $4,800. So Buffett's net worth was equivalent to about 36 times the average annual salary, making it a substantial amount for a 26-year-old at that time. In today's dollars, this would be worth a few million.
 
-This wealth allowed Buffett to initially consider retiring and living on a budget of $12,000 per year in Omaha with his family, though he ultimately decided against retirement and instead began setting up investment partnerships.",0.916879496196511,1.0,0.07692307692307693
+This wealth allowed Buffett to initially consider retiring and living on a budget of $12,000 per year in Omaha with his family, though he ultimately decided against retirement and instead began setting up investment partnerships.",0.916879496,1,0.076923077
 66,On which day of the week did Warren Buffet talked with Lorimer and for how long?,"According to the context, Warren Buffett met with Lorimer Davidson (Davey) on a Saturday morning. He showed up at the GEICO office on a Saturday and after persuading a security guard, got to meet with Lorimer Davidson who was there that morning. They ended up talking for four hours that Saturday morning, during which Davey explained to Warren how GEICO and the insurance industry worked, including the concept of float.
 
-The exact quote from the text states: ""They talked for four hours that Saturday morning. Davey tells Warren all about how GEICO works, how the insurance industry works, tells him about this magical thing called float.""",0.8815503304036059,1.0,0.5555555555555556
-67,"Which company, in addition to Facebook and Google, showed interest in WhatsApp?","According to the context, Tencent showed serious interest in acquiring WhatsApp. Specifically, Tencent was ready to do a deal to buy WhatsApp in the high single-digit billions, and the deal was quite far along. Pony Ma, Tencent's CEO, was scheduled to come to California to finalize the deal with Jan, Brian and Jim, but had to delay the trip due to back surgery. This delay created an opening for Facebook to step in and acquire WhatsApp instead.",0.9046061942668615,1.0,1.0
-68,"During high school year, which online security community Jan Koum was part of? ","I cannot determine from the provided context which online security community Jan Koum was part of during his high school years. The given text appears to be about Ethereum, cryptocurrency, and discussions between Ben Gilbert, David Rosenthal and Packy McCormick. It does not contain any information about Jan Koum or his early years.",0.7557504626012757,1.0,0.3333333333333333
+The exact quote from the text states: ""They talked for four hours that Saturday morning. Davey tells Warren all about how GEICO works, how the insurance industry works, tells him about this magical thing called float.""",0.8815503304036059,1,0.5555555555555556
+67,"Which company, in addition to Facebook and Google, showed interest in WhatsApp?","According to the context, Tencent showed serious interest in acquiring WhatsApp. Specifically, Tencent was ready to do a deal to buy WhatsApp in the high single-digit billions, and the deal was quite far along. Pony Ma, Tencent's CEO, was scheduled to come to California to finalize the deal with Jan, Brian and Jim, but had to delay the trip due to back surgery. This delay created an opening for Facebook to step in and acquire WhatsApp instead.",0.9046061942668615,1,1
+68,"During high school year, which online security community Jan Koum was part of? "," The given text appears to be about Ethereum, cryptocurrency, and discussions between Ben Gilbert, David Rosenthal and Packy McCormick. It does not contain any information about Jan Koum or his early years.",0.7557504626012757,1,0.3333333333333333
 69,What business strategies did Jan used to increase the popularity of the WhatsApp product?,"Based on the provided context, Jan used several key business strategies to increase WhatsApp's popularity:
 
 1. App Store Growth Hack
@@ -606,7 +604,7 @@ The exact quote from the text states: ""They talked for four hours that Saturday
 - Leveraged growing data networks and smartphones to provide SMS alternative
 - Took advantage of carrier pricing models that charged high fees for SMS/international messaging
 
-These strategies helped WhatsApp grow rapidly to become the largest messaging application in the world with over 1.5 billion monthly active users.",0.9075858182825393,1.0,1.0
+These strategies helped WhatsApp grow rapidly to become the largest messaging application in the world with over 1.5 billion monthly active users.",0.9075858182825393,1,1
 70,What company did Disney invest in and eventually purchase for the technology to enable their streaming services platform?,"According to the context, Disney invested in and eventually acquired BAMTech to power their streaming services platform. Specifically:
 
 - In 2016, Disney first acquired a minority stake in BAMTech for $1 billion
@@ -617,7 +615,7 @@ These strategies helped WhatsApp grow rapidly to become the largest messaging ap
 - BAMTech became the technological foundation for Disney+, ESPN+, and Disney's other streaming initiatives
 - The acquisition of BAMTech was seen as a much more strategic fit compared to alternatives like Twitter, since BAMTech focused purely on distribution technology rather than being a consumer-facing platform with other features and complications
 
-The BAMTech acquisition was a key part of Disney's strategy to build their direct-to-consumer streaming capabilities while maintaining focus on their core strengths in content creation and ownership.",0.9182425526789284,1.0,1.0
+The BAMTech acquisition was a key part of Disney's strategy to build their direct-to-consumer streaming capabilities while maintaining focus on their core strengths in content creation and ownership.",0.9182425526789284,1,1
 71,What was the result of the shareholder no confidence bid against Bob Eisner after the failed Disney takeover bid by Comcast?,"According to the context, at the March 2004 shareholder meeting, an astounding 43% of Disney shareholders voted no confidence in Michael Eisner. This was an extremely rare and significant rebuke. In the immediate aftermath of this vote, the Disney board met that same night and:
 
 1. Stripped Eisner of his chairman title (he had previously been both chairman and CEO)
@@ -625,9 +623,9 @@ The BAMTech acquisition was a key part of Disney's strategy to build their direc
 
 This led to a CEO search where Bob Iger was the only internal candidate, though initially he faced significant skepticism due to his role as COO during Eisner's troubled later years. The board also considered external candidates, with Meg Whitman being a leading contender. Ultimately, Iger won the position by presenting a compelling three-pillar vision for Disney's future focused on high-quality content, embracing technology, and global growth.
 
-The 43% no confidence vote was a pivotal moment that effectively ended Eisner's tenure at Disney and paved the way for Bob Iger's leadership, marking a major transition point for the company.",0.9033085978900564,1.0,1.0
-72,What position did Bob Eisner have and in what company when Disney acquired it?,"Based on the provided context, I cannot definitively determine what position Bob Eisner held or at what company he worked when Disney acquired it. While the context discusses Michael Eisner extensively as Disney's CEO from 1984 until the mid-2000s, and mentions various acquisitions during his tenure, it does not specify what position he held at any company that Disney acquired. The context primarily focuses on Eisner's role as Disney's CEO and his leadership of Disney during various acquisitions, rather than his prior positions before joining Disney.",0.8507034822329403,1.0,0.75
-73,What did Jeffrey Skilling say to the dean of Harvard Business School during his entrance interview?,"According to the context, during his entrance interview with the dean of Harvard Business School, Jeffrey Skilling responded to a question about whether he was smart by saying ""I'm effing smart"" (though the text notes he didn't use those exact words, implying he used the explicit version). This interaction occurred when Skilling was working in Houston at the time and the dean interviewed him during a trip there.",0.7125907366222881,1.0,0.6666666666666666
+The 43% no confidence vote was a pivotal moment that effectively ended Eisner's tenure at Disney and paved the way for Bob Iger's leadership, marking a major transition point for the company.",0.9033085978900564,1,1
+72,What position did Bob Eisner have and in what company when Disney acquired it?,"Based on the provided context, I cannot definitively determine what position Bob Eisner held or at what company he worked when Disney acquired it. While the context discusses Michael Eisner extensively as Disney's CEO from 1984 until the mid-2000s, and mentions various acquisitions during his tenure, it does not specify what position he held at any company that Disney acquired. The context primarily focuses on Eisner's role as Disney's CEO and his leadership of Disney during various acquisitions, rather than his prior positions before joining Disney.",0.8507034822329403,1,0.75
+73,What did Jeffrey Skilling say to the dean of Harvard Business School during his entrance interview?,"According to the context, during his entrance interview with the dean of Harvard Business School, Jeffrey Skilling responded to a question about whether he was smart by saying ""I'm effing smart"" (though the text notes he didn't use those exact words, implying he used the explicit version). This interaction occurred when Skilling was working in Houston at the time and the dean interviewed him during a trip there.",0.7125907366222881,1,0.6666666666666666
 74,What was the singular condition that Jeffrey Skilling requested before joining Enron?,"According to the context, Jeffrey Skilling's singular non-negotiable condition for joining Enron was that the company had to agree to use mark-to-market accounting. This was described as his ""lay my body across the tracks issue"" about joining the company. 
 
 Skilling insisted on this because he realized he couldn't build the business he wanted without mark-to-market accounting. This was particularly significant because Enron would become the first non-financial company to use this accounting method. Mark-to-market accounting allowed Enron to:
@@ -636,7 +634,7 @@ Skilling insisted on this because he realized he couldn't build the business he 
 2. Recognize up to 20 years of forecasted cash flows in the present
 3. Book revenue without having received actual cash
 
-This accounting method would later become a key enabler of Enron's fraudulent practices, though at the time Skilling had to convince both Arthur Andersen and the SEC to approve its use for a non-financial company.",0.9106690606716885,1.0,0.5555555555555556
+This accounting method would later become a key enabler of Enron's fraudulent practices, though at the time Skilling had to convince both Arthur Andersen and the SEC to approve its use for a non-financial company.",0.9106690606716885,1,0.5555555555555556
 75,What historic event took investigative pressure off of Enron before its stock collapsed?,"According to the context, the September 11th, 2001 terrorist attacks temporarily took investigative pressure off of Enron by distracting the media, investors, and financial community from scrutinizing the company's problems. 
 
 Specifically:
@@ -646,7 +644,7 @@ Specifically:
 - When Enron's commercial paper didn't turn over on September 12th (meaning no buyers for their short-term loans), it would have normally meant immediate collapse, but because everyone was distracted by 9/11, they were able to survive for a few more weeks
 - It wasn't until early October, after the financial community had recovered enough from 9/11, that serious questioning of Enron resumed with Wall Street Journal stories about LJM and Fastow
 
-So while 9/11 didn't prevent Enron's eventual collapse, it temporarily deflected attention away from the company's mounting problems and bought them a few more weeks before their issues came fully to light.",0.9049620764298847,1.0,1.0
+So while 9/11 didn't prevent Enron's eventual collapse, it temporarily deflected attention away from the company's mounting problems and bought them a few more weeks before their issues came fully to light.",0.9049620764298847,1,1
 76,How did Enron remove investments from its accounting books?,"Based on the context, Enron removed investments from its accounting books through special-purpose entities (SPEs) using the following key mechanisms:
 
 1. The 3% Rule:
@@ -667,7 +665,7 @@ So while 9/11 didn't prevent Enron's eventual collapse, it temporarily deflected
 - This allowed Enron to remove the assets and associated liabilities from its consolidated financial statements
 - The company could also book revenue from these ""sales"" even though they still effectively controlled the assets
 
-This system allowed Enron to hide billions in losses and debt from its balance sheet while creating artificial revenue through transactions with entities it secretly controlled. The practice ended after Enron's collapse when Sarbanes-Oxley legislation required much stricter disclosure of off-balance-sheet entities.",0.9132964235586438,1.0,1.0
+This system allowed Enron to hide billions in losses and debt from its balance sheet while creating artificial revenue through transactions with entities it secretly controlled. The practice ended after Enron's collapse when Sarbanes-Oxley legislation required much stricter disclosure of off-balance-sheet entities.",0.9132964235586438,1,1
 77,The fall of Enron is similar to what other bankruptcy from 2022?,"Based on the context, the fall of Enron is repeatedly compared to FTX's bankruptcy in 2022. The parallels between the two cases are described as ""uncanny"" with several key similarities:
 
 1. Both were financial trading companies that got over-leveraged and became tangled in self-dealing to cover up their problems
@@ -684,7 +682,7 @@ This system allowed Enron to hide billions in losses and debt from its balance s
 
 However, there are some notable differences in scale - Enron's bankruptcy involved around $63 billion in assets and left behind about a trillion dollars in claims to 30,000 creditors, while FTX's 50 largest creditors summed to $3.1 billion with total losses estimated around $10 billion. Additionally, Enron managed to perpetrate its fraud as a public company with much more regulatory oversight, while FTX operated in the less regulated crypto space and private markets.
 
-The context suggests that Enron's collapse provides important lessons for understanding the FTX situation, particularly around how fraudulent activities can persist in bull markets when incentives are misaligned and proper oversight is lacking.",0.9047425875210516,1.0,1.0
+The context suggests that Enron's collapse provides important lessons for understanding the FTX situation, particularly around how fraudulent activities can persist in bull markets when incentives are misaligned and proper oversight is lacking.",0.9047425875210516,1,1
 78,What metrics did FTX judge itself by?,"Based on the provided context, FTX judged itself by several key metrics:
 
 1. Trading Volume
@@ -712,8 +710,8 @@ The context suggests that Enron's collapse provides important lessons for unders
 - Particularly focused on derivatives offerings (noted as being 2/3 of global crypto volume)
 - Development of new features and capabilities
 
-The context suggests FTX was particularly focused on objective, measurable metrics rather than vanity metrics, with a strong emphasis on trading volume and product performance as key indicators of success. The company appears to have prioritized metrics that directly reflected their ability to serve power users and institutional clients effectively.",0.9037326883391437,1.0,1.0
+The context suggests FTX was particularly focused on objective, measurable metrics rather than vanity metrics, with a strong emphasis on trading volume and product performance as key indicators of success. The company appears to have prioritized metrics that directly reflected their ability to serve power users and institutional clients effectively.",0.9037326883391437,1,1
 79,When was Trip Hawkins exposed to Computers?,"According to the context, Trip Hawkins was first exposed to computers during his sophomore year in high school (around the early 1970s). He was trying to get his friends to play tabletop games and sports simulations, but found that many friends thought these games required too much work and overhead. When he first learned about computers, he realized they could be used to handle all the administrative and operational aspects of games while providing visual elements like a television. This was his first insight into how computers could transform gaming, though he noted that it would take about 40 years for his vision to be fully realized.
 
-The context specifically mentions that Trip said: ""As soon as I heard about computers, and I could kind of see it with my own eyes, 'This is how you do it. We're going to basically, put all the administrative operating stuff in a box. I'm going to put pretty pictures on the screen like a television.'""",0.8319241690555497,1.0,0.5
-80,What was Trip Hawkins favorite game growing up?,"Based on the provided context, Trip Hawkins' favorite game growing up was Strat-O-Matic, a dice-based sports simulation game invented in the 1960s. He mentions that while many people remember All-Star Baseball (another popular game at the time), Strat-O-Matic was his personal favorite. Through playing this game at around age 10, he taught himself Bayesian probability theory by studying the dice rolls and understanding the statistical probabilities behind different outcomes. The game helped nurture his love of both sports and strategic thinking from an early age.",0.9182425526789286,1.0,0.8
+The context specifically mentions that Trip said: ""As soon as I heard about computers, and I could kind of see it with my own eyes, 'This is how you do it. We're going to basically, put all the administrative operating stuff in a box. I'm going to put pretty pictures on the screen like a television.'""",0.8319241690555497,1,0.5
+80,What was Trip Hawkins favorite game growing up?,"Based on the provided context, Trip Hawkins' favorite game growing up was Strat-O-Matic, a dice-based sports simulation game invented in the 1960s. He mentions that while many people remember All-Star Baseball (another popular game at the time), Strat-O-Matic was his personal favorite. Through playing this game at around age 10, he taught himself Bayesian probability theory by studying the dice rolls and understanding the statistical probabilities behind different outcomes. The game helped nurture his love of both sports and strategic thinking from an early age.",0.9182425526789286,1,0.8
