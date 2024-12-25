@@ -1,0 +1,7 @@
+question number,question,cypher_query,context,status,response
+11,Compare the impact on Qualcomm between the two Jacobs.,"MATCH (p1:Person {name: ""Irwin Jacobs""}), (p2:Person {name: ""Paul Jacobs""}), (company:Company {name: ""Qualcomm""})
+OPTIONAL MATCH (p1)-[r1]->(company)
+OPTIONAL MATCH (p2)-[r2]->(company)
+RETURN p1.name, COUNT(r1) AS ImpactByIrwin, p2.name, COUNT(r2) AS ImpactByPaul","[{'p1.name': 'Irwin Jacobs', 'ImpactByIrwin': 0, 'p2.name': 'Paul Jacobs', 'ImpactByPaul': 2}]",success,Paul Jacobs has had a greater impact on Qualcomm compared to Irwin Jacobs.
+20,Visa is the global sponsor of what?,"MATCH (c:Company {name: ""Visa""})-[:SPONSOR]->(e) RETURN e.name",[{'e.name': 'Olympics'}],success,Visa is the global sponsor of the Olympics.
+46,What did Nvidia call its first graphics card,"MATCH (c:Company {name: ""Nvidia""})-[:CREATED]->(p:Product) RETURN p.name AS FirstGraphicsCardName","[{'FirstGraphicsCardName': 'Grace_Cpu_Processor'}, {'FirstGraphicsCardName': 'Hopper_Gpu'}, {'FirstGraphicsCardName': 'Lovelace_Gpu'}]",success,"Nvidia called its first graphics cards Grace Cpu Processor, Hopper Gpu, and Lovelace Gpu."
